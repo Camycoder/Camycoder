@@ -7,10 +7,8 @@
 ## 🚀 About Me
 🔹 I'm a Computer Science student from Brazil, eager to learn about software development, network security, cybersecurity, and more!
 
-## 🌟 Themed Border
-![Matrix Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=50&section=header&text=MATRIX+THEME&fontColor=00FF00&animation=fadeIn)
-
-![Full Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=10&section=footer&text=MATRIX+CODE&fontColor=00FF00)
+## 🌟 Neon Border Effect
+<div style="border: 3px solid #00FF00; border-radius: 10px; padding: 15px; box-shadow: 0px 0px 10px #00FF00;">
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
@@ -31,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EE4C2C?style=for-the-badge&logo=cybersecurity&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
