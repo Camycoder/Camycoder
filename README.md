@@ -5,10 +5,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=header)
 
 ## 🚀 About Me
+
+![Neon Border](https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=15&section=header&text=&fontColor=00FF00&animation=fadeIn)
+
 🔹 I'm a Computer Science student from Brazil, eager to learn about software development, network security, cybersecurity, and more!
 
-## 🌟 Neon Border Effect
-<div style="border: 3px solid #00FF00; border-radius: 10px; padding: 15px; box-shadow: 0px 0px 10px #00FF00;">
+![Neon Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=15&section=footer&text=&fontColor=00FF00&animation=fadeIn)
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
@@ -29,8 +31,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EE4C2C?style=for-the-badge&logo=cybersecurity&logoColor=white)
-
-</div>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
