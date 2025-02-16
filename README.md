@@ -1,4 +1,4 @@
-### ![Hi there](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7DF1E&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile!+)
+### ![Hi there](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile!+)
 
 ---
 
