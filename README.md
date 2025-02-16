@@ -12,11 +12,6 @@
 
 ![Neon Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=15&section=footer&text=&fontColor=00FF00&animation=fadeIn)
 
-## 🎨 Custom SVG Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/animation.svg" alt="Custom SVG Animation" width="600px"/>
-</p>
-
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/seu-link)
@@ -30,7 +25,7 @@
 
 ## 🎭 Hobbies & Interests
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=%E2%8F%B0+Gaming+%7C+%F0%9F%93%96+Reading+%7C+%F0%9F%8E%B5+Music+%7C+%E2%9C%A8+Tech+Exploring+%7C+%F0%9F%8E%A8+Digital+Art" alt="Hobbies & Interests">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=%F0%9F%8E%AE+Gaming+%7C+%F0%9F%92%BB+Tech+%7C+%F0%9F%93%96+Reading+%7C+%F0%9F%8E%B5+Music+%7C+%F0%9F%8E%A8+Digital+Art" alt="Hobbies & Interests">
 </p>
 
 ## 📊 GitHub Stats
@@ -42,10 +37,9 @@
 
 ## 💡 Inspirational Quote
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=+%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%93+Steve+Jobs" alt="Inspirational Quote">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=%22If+it+works%2C+don%E2%80%99t+touch+it.%22" alt="Inspirational Quote">
 </p>
 
 🎉 Thanks for visiting my profile!
-
 
 
