@@ -1,5 +1,4 @@
-### Hi there! 👋
-Welcome to my GitHub profile!
+### ![Hi there](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7DF1E&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile!+)
 
 ---
 
@@ -9,7 +8,7 @@ Welcome to my GitHub profile!
 🔹 I'm a Computer Science student from Brazil, eager to learn about software development, network security, cybersecurity, and more!
 
 ## 🌟 Interactive Border
-![Border](https://capsule-render.vercel.app/api?type=gradient&color=0:FF5733,100:1E90FF&height=10&section=header)
+![Binary Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=50&section=header&text=0101010011101010&fontColor=00FF00&animation=fadeIn)
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
