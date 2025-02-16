@@ -12,6 +12,11 @@
 
 ![Neon Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=15&section=footer&text=&fontColor=00FF00&animation=fadeIn)
 
+## 🎨 Custom SVG Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/animation.svg" alt="Custom SVG Animation" width="600px"/>
+</p>
+
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/seu-link)
@@ -19,18 +24,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
 
 ## 🛠️ Technologies I'm Learning & Exploring
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EE4C2C?style=for-the-badge&logo=cybersecurity&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,php,c,java,linux,docker,kubernetes,security" alt="Tech Icons">
+</p>
+
+## 🎭 Hobbies & Interests
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=%E2%8F%B0+Gaming+%7C+%F0%9F%93%96+Reading+%7C+%F0%9F%8E%B5+Music+%7C+%E2%9C%A8+Tech+Exploring+%7C+%F0%9F%8E%A8+Digital+Art" alt="Hobbies & Interests">
+</p>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
@@ -38,6 +39,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
 
 ---
+
+## 💡 Inspirational Quote
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=+%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%93+Steve+Jobs" alt="Inspirational Quote">
+</p>
 
 🎉 Thanks for visiting my profile!
 
