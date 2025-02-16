@@ -7,8 +7,10 @@
 ## 🚀 About Me
 🔹 I'm a Computer Science student from Brazil, eager to learn about software development, network security, cybersecurity, and more!
 
-## 🌟 Interactive Border
+## 🌟 Themed Border
 ![Binary Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=50&section=header&text=0101010011101010&fontColor=00FF00&animation=fadeIn)
+
+![Full Border](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=10&section=footer&text=MATRIX+CODE&fontColor=00FF00)
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
@@ -38,5 +40,6 @@
 ---
 
 🎉 Thanks for visiting my profile!
+
 
 
