@@ -40,6 +40,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=%22If+it+works%2C+don%E2%80%99t+touch+it.%22" alt="Inspirational Quote">
 </p>
 
-🎉 Thanks for visiting my profile!
+## 🎉 Thanks for Visiting!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=600&lines=Thanks+for+stopping+by!;Come+back+soon+for+more+updates!;Happy+Coding!" alt="Interactive Thanks">
+</p>
 
 
