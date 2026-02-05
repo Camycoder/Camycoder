@@ -1,6 +1,6 @@
 ### Olá, sou a Camycoder <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-**Estudante de Desenvolvimento de Sistemas e Segurança da Informação**
+**Estudante de desenvolvimento de sistemas e Segurança da informação**
 
 Meu foco é criar a ponte entre **código funcional** e **infraestrutura segura**. Acredito que a melhor defesa é entender como as coisas são construídas.
 
@@ -8,15 +8,15 @@ Atualmente, estou mergulhada no ecossistema **Java** e **Banco de Dados**, enqua
 
 ---
 
-### 📊 Minha Evolução
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camycoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camycoder&layout=compact&theme=dracula"/>
-</div>
 
+### 📊 Minha evolução
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Camycoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camycoder&layout=compact&theme=dracula"/>
+</div>
 ---
 
-### 🛠️ Arsenal Técnico
+### 🛠️ Arsenal técnico
 
 **Desenvolvimento:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,7 +26,7 @@ Atualmente, estou mergulhada no ecossistema **Java** e **Banco de Dados**, enqua
 
 ---
 
-### 🚧 Projeto em Destaque: Smartbooking
+### 🚧 Projeto em destaque: Smartbooking
 
 > *Sistema de gerenciamento de reservas (Desktop Application)*
 
