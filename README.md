@@ -35,7 +35,10 @@ Estou desenvolvendo este projeto para consolidar meus conhecimentos em Orientaç
 2.  **Próximos Passos:** Migração para arquitetura Web com **Spring Boot**, adicionando camadas de segurança e autenticação.
 
 ---
-
 ### 📫 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camily-silva-11051a351)
+<div align="left">
+  <a href="https://www.linkedin.com/in/camily-silva-11051a351" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
