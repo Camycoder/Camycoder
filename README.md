@@ -9,11 +9,11 @@ Atualmente, estou mergulhada no ecossistema **Java** e **Banco de Dados**, enqua
 ---
 
 
-### 📊 Minha Evolução
+### 📊 Minha evolução
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Camycoder&theme=dracula&show_icons=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camycoder&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Camycoder&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j&mode=weekly" />
+</div>
 
 ### 🛠️ Arsenal técnico
 
